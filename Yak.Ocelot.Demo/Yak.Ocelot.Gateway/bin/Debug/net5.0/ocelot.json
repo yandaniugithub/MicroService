@@ -1,0 +1,98 @@
+{
+  "Routes": [
+    //{
+    //  "DownstreamPathTemplate": "/products",
+    //  "DownstreamScheme": "http",
+    //  "UpstreamPathTemplate": "/products",
+    //  "UpstreamHttpMethod": [ "Get" ],
+    //  "ServiceName": "service-publisher",
+    //  "LoadBalancerOptions": {
+    //    "Type": "RoundRobin"
+    //  },
+    //  "FileCacheOptions": {
+    //    "TtlSeconds": 5,
+    //    "Region": "regionname"
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [ "SuperClient" ],
+    //    "EnableRateLimiting": true,
+    //    "Period": "5s",
+    //    "PeriodTimespan": 2,
+    //    "Limit": 1
+    //  }
+    //},
+    {
+      "DownstreamPathTemplate": "/orders",
+      "DownstreamScheme": "http",
+      "ServiceName": "service-subscribe",
+      "UseServiceDiscovery": true,
+      "UpstreamPathTemplate": "/orders",
+      "UpstreamHttpMethod": [ "Get" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      //鉴权
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Gatewaykey",
+        "AllowedScopes": [ "Yak.Cap.RabbitMQ.SubscribeApi" ]
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/Publish/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "service-publisher",
+      "UseServiceDiscovery": true,
+      "UpstreamPathTemplate": "/Publish/{url}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      //鉴权
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Gatewaykey",
+        "AllowedScopes": [ "Yak.Cap.RabbitMQ.PublisherApi" ]
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/WeatherForecast", //WeatherForecast
+      "DownstreamScheme": "http",
+      "ServiceName": "service-a",
+      "UseServiceDiscovery": true,
+      "UpstreamPathTemplate": "/Weather", //Weather
+      "UpstreamHttpMethod": [ "Get" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      //鉴权
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Gatewaykey",
+        "AllowedScopes": [ "Yak.Ocelot.Api"]
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000",
+    "ServiceDiscoveryProvider": {
+      "Scheme": "http",
+      "Host": "localhost",
+      "Port": 8500,
+      "Type": "Consul"
+    },
+    "RateLimitOptions": {
+      "DisableRateLimitHeaders": false,
+      "QuotaExceededMessage": "too many requests...",
+      "HttpStatusCode": 999,
+      "ClientIdHeader": "Test"
+    },
+    //鉴权
+    //"AuthenticationOptions": {
+    //  "AuthenticationProviderKey": "Gatewaykey",
+    //  "AllowedScopes": [ "Yak.Ocelot.Api", "Yak.Cap.RabbitMQ.PublisherApi", "Yak.Cap.RabbitMQ.SubscribeApi" ]
+    //}, //熔断器Polly
+    "QoSOptions": {
+      "ExceptionsAllowedBeforeBreaking": 3, //打开断路器之前允许的多少个异常请求
+      "DurationOfBreak": 60000, // 熔断时间
+      "TimeoutValue": 1000 //请求超时时间(毫秒)
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.SubscribeApi\\Yak.Cap.RabbitMQ.SubscribeApi.csproj": {}
+  },
+  "projects": {
+    "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj",
+        "projectName": "Yak.Cap.RabbitMQ.DB",
+        "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj",
+        "packagesPath": "C:\\Users\\yandaniu\\.nuget\\packages\\",
+        "outputPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yandaniu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.Models\\Yak.Cap.RabbitMQ.Models.csproj": {
+                "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.Models\\Yak.Cap.RabbitMQ.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.Models\\Yak.Cap.RabbitMQ.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.Models\\Yak.Cap.RabbitMQ.Models.csproj",
+        "projectName": "Yak.Cap.RabbitMQ.Models",
+        "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.Models\\Yak.Cap.RabbitMQ.Models.csproj",
+        "packagesPath": "C:\\Users\\yandaniu\\.nuget\\packages\\",
+        "outputPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yandaniu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.SubscribeApi\\Yak.Cap.RabbitMQ.SubscribeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.SubscribeApi\\Yak.Cap.RabbitMQ.SubscribeApi.csproj",
+        "projectName": "Yak.Cap.RabbitMQ.SubscribeApi",
+        "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.SubscribeApi\\Yak.Cap.RabbitMQ.SubscribeApi.csproj",
+        "packagesPath": "C:\\Users\\yandaniu\\.nuget\\packages\\",
+        "outputPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.SubscribeApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yandaniu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj": {
+                "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.1.1, )"
+            },
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "DotNetCore.CAP.Dashboard": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "DotNetCore.CAP.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "DotNetCore.CAP.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

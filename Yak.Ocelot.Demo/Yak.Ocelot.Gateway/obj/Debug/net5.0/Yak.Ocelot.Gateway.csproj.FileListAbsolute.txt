@@ -1,0 +1,273 @@
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.Development.json
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.json
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ocelot.json
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.exe
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.deps.json
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.json
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.dev.json
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\FluentValidation.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.AssemblyReference.cache
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfoInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.Manifest.cache
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.xml
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\scopedcss\bundle\Yak.Ocelot.Gateway.styles.css
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.RazorTargetAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CopyComplete
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot(02)之快速开始\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.genruntimeconfig.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.Development.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ocelot.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.StaticWebAssets.xml
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.exe
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.deps.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.dev.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\FluentValidation.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.AssemblyReference.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfoInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\scopedcss\bundle\Yak.Ocelot.Gateway.styles.css
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.Manifest.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.RazorTargetAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CopyComplete
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\refint\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.genruntimeconfig.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Consul服务发现\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.Development.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.StaticWebAssets.xml
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ocelot.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.exe
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.deps.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.dev.json
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\FluentValidation.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Polly.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Polly.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.AssemblyReference.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfoInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\scopedcss\bundle\Yak.Ocelot.Gateway.styles.css
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.Manifest.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.RazorTargetAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CopyComplete
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\refint\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.genruntimeconfig.cache
+F:\biji\NetCore\Ocelot\Ocelot之基于Polly熔断和降级\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.Development.json
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.json
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.StaticWebAssets.xml
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ocelot.json
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.exe
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.deps.json
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.json
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.dev.json
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\FluentValidation.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Polly.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Polly.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.AssemblyReference.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfoInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\scopedcss\bundle\Yak.Ocelot.Gateway.styles.css
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.Manifest.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.RazorTargetAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CopyComplete
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\refint\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.genruntimeconfig.cache
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Core.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Microsoft.Extensions.Configuration.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Microsoft.Extensions.Logging.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Cache.CacheManager.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\IdentityModel.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+F:\biji\NetCore\Ocelot\Ocelot + IdentityServer4 构建 GateWay\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.Development.json
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.json
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ocelot.json
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.StaticWebAssets.xml
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.exe
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.deps.json
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.json
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.dev.json
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Core.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Microsoft.Extensions.Configuration.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Microsoft.Extensions.Logging.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\FluentValidation.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Cache.CacheManager.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Consul.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Polly.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Polly.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.AssemblyReference.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfoInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\scopedcss\bundle\Yak.Ocelot.Gateway.styles.css
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.Manifest.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.RazorTargetAssemblyInfo.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CopyComplete
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\refint\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.genruntimeconfig.cache
+F:\biji\NetCore\Ocelot\Ocelot之结合IdentityServer4认证二\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.Development.json
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\appsettings.json
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.StaticWebAssets.xml
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\ocelot.json
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.exe
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.deps.json
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.json
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.runtimeconfig.dev.json
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Core.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Microsoft.Extensions.Configuration.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\CacheManager.Microsoft.Extensions.Logging.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Consul.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\FluentValidation.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Cache.CacheManager.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Consul.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Ocelot.Provider.Polly.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\Polly.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.AssemblyReference.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfoInputs.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.AssemblyInfo.cs
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\scopedcss\bundle\Yak.Ocelot.Gateway.styles.css
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\staticwebassets\Yak.Ocelot.Gateway.StaticWebAssets.Manifest.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.RazorTargetAssemblyInfo.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.csproj.CopyComplete
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\refint\Yak.Ocelot.Gateway.dll
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.pdb
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\Yak.Ocelot.Gateway.genruntimeconfig.cache
+F:\biji\NetCore\微服务\consul+polly+oclet+identityserver4+cap\code\Yak.Ocelot.Demo\Yak.Ocelot.Gateway\obj\Debug\net5.0\ref\Yak.Ocelot.Gateway.dll

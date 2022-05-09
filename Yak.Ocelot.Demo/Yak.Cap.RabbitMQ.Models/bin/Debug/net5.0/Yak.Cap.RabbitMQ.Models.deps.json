@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yak.Cap.RabbitMQ.Models/1.0.0": {
+        "runtime": {
+          "Yak.Cap.RabbitMQ.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yak.Cap.RabbitMQ.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
