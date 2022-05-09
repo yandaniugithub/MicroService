@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "UONi53GMES59ra8AnwhRhX5VuYe7UkXcw6RNH7cnA1iF1aUQanCCG+GgWSEht+P+9gAZXj8WXJhejLaN8Up9og==",
+  "success": true,
+  "projectFilePath": "F:\\biji\\NetCore\\EventBus + 分布式事务 解决方案 CAP\\CAP结合RabbitMQ分布式事务2\\code\\Yak.Cap.Demo\\Yak.Cap.InMemory.Api\\Yak.Cap.InMemory.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yandaniu\\.nuget\\packages\\dotnetcore.cap\\6.0.1\\dotnetcore.cap.6.0.1.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\dotnetcore.cap.inmemorystorage\\6.0.1\\dotnetcore.cap.inmemorystorage.6.0.1.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\savorboard.cap.inmemorymessagequeue\\6.0.0\\savorboard.cap.inmemorymessagequeue.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
