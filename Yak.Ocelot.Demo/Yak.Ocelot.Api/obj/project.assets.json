@@ -2350,11 +2350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\Yak.Ocelot.Api.csproj",
+      "projectUniqueName": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\Yak.Ocelot.Api.csproj",
       "projectName": "Yak.Ocelot.Api",
-      "projectPath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\Yak.Ocelot.Api.csproj",
+      "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\Yak.Ocelot.Api.csproj",
       "packagesPath": "C:\\Users\\yandaniu\\.nuget\\packages\\",
-      "outputPath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\obj\\",
+      "outputPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2374,8 +2374,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj": {
-              "projectPath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj"
+            "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj": {
+              "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Cap.RabbitMQ.DB\\Yak.Cap.RabbitMQ.DB.csproj"
             }
           }
         }

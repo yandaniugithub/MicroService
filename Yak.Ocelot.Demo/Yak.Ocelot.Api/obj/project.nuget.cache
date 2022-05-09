@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "saNYZ0rDutxQyYJ/nVgSQInX5Q2Jg9/9nN0d8YBhT+PK0xn6caGSEGF/8gdAk3wfEoEQKEZsEiAFv8FR8Xfgzw==",
+  "dgSpecHash": "wyHVXjWBkZHpKM8ZsNTYRYzrHlAo8bikZ0owsCdQWuRXfFsI1xFEUrxqVLL0Mv5b9FI7Gq1T0ODe4+scd9/zJA==",
   "success": true,
-  "projectFilePath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\Yak.Ocelot.Api.csproj",
+  "projectFilePath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Api\\Yak.Ocelot.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yandaniu\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\yandaniu\\.nuget\\packages\\dotnetcore.cap\\5.0.1\\dotnetcore.cap.5.0.1.nupkg.sha512",

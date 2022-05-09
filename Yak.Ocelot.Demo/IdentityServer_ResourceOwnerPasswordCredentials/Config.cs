@@ -23,8 +23,7 @@ namespace IdentityServer_ResourceOwnerPasswordCredentials
             { 
                 new ApiScope("Yak.Ocelot.Api", "My API"),
                 new ApiScope("Yak.Cap.RabbitMQ.SubscribeApi", "Product API"),
-                new ApiScope("Yak.Cap.RabbitMQ.PublisherApi", "Order API"),
-                new ApiScope("Yak.Microservice.Product.Api", "Yak.Microservice.Product API")
+                new ApiScope("Yak.Cap.RabbitMQ.PublisherApi", "Order API")
             };
 
         //public static IEnumerable<Client> Clients =>

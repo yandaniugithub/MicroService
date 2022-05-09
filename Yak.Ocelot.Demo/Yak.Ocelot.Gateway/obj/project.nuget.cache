@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+72ACABZ1JiooUp7Dm5npPWMadBpEjf8lO96t+IlhP5MRUiRYD4HciFrucTsQ2jzynGOt3wVGHXyI2g8yN3LEA==",
+  "dgSpecHash": "9d/vb/4cP4Kf8kQONbRHumpxbohaMt7TFYMkRUImGKNTikjQ7Ogy+vQtC+ntplVPJpvL7t/6ES9uhL+xBaYB9Q==",
   "success": true,
-  "projectFilePath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj",
+  "projectFilePath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yandaniu\\.nuget\\packages\\cachemanager.core\\2.0.0-beta-1629\\cachemanager.core.2.0.0-beta-1629.nupkg.sha512",
     "C:\\Users\\yandaniu\\.nuget\\packages\\cachemanager.microsoft.extensions.configuration\\2.0.0-beta-1629\\cachemanager.microsoft.extensions.configuration.2.0.0-beta-1629.nupkg.sha512",

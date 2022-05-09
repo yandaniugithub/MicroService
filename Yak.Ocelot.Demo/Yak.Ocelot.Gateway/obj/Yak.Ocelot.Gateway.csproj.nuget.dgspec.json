@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj": {}
+    "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj": {}
   },
   "projects": {
-    "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj": {
+    "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj",
+        "projectUniqueName": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj",
         "projectName": "Yak.Ocelot.Gateway",
-        "projectPath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj",
+        "projectPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\Yak.Ocelot.Gateway.csproj",
         "packagesPath": "C:\\Users\\yandaniu\\.nuget\\packages\\",
-        "outputPath": "F:\\biji\\NetCore\\微服务\\consul+polly+oclet+identityserver4+cap\\code\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\obj\\",
+        "outputPath": "F:\\biji\\NetCore\\MicroService\\Yak.Ocelot.Demo\\Yak.Ocelot.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
